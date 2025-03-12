@@ -1,10 +1,10 @@
-- 👋 Hi, I’m JPMendes2000
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 👋 Olá! Eu sou JPMends
 
-<!---
-jpmendes2000/jpmendes2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 Estou melhorando meu código em Java e SQL
+
+- 👀 Eu gosto de jogos de luta e construção de cidades
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpmendes2000&show_icons=true&theme=transparent">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmendes2000&layout=compact&theme=transparent">
+</div>
