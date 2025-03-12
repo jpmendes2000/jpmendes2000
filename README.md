@@ -20,7 +20,7 @@
 ##
 
 <div style="display: inline-block;"><br>
-    <a href=""><img align="center" alt="JP-Email" height="43" width="140" src="https://img.shields.io/badge/Gmail-00000F?style=for-the-badge&logo=gmail&logoColor=blue" href=""></a><br> <br>
+    <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=new"><img align="center" alt="JP-Email" height="43" width="140" src="https://img.shields.io/badge/Gmail-00000F?style=for-the-badge&logo=gmail&logoColor=blue" href=""></a><br> <br>
     <a href="https://www.instagram.com/jp.mends/?next=%2F"><img align="center" alt="JP-Instagram" height="43" width="165" src="https://img.shields.io/badge/Instagram-00000F?style=for-the-badge&logo=instagram&logoColor=blue"></a><br> <br>
     <a href=""><img align="center" alt="JP-Discord" height="43" width="145" src="https://img.shields.io/badge/Discord-00000F?style=for-the-badge&logo=discord&logoColor=blue"></a><br> <br>
     <a href=""><img align="center" alt="JP-Linkdein" height="43" width="145" src="https://img.shields.io/badge/LinkedIn-00000F?style=for-the-badge&logo=linkedin&logoColor=blue"></a><br> <br>
