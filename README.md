@@ -9,11 +9,18 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmendes2000&layout=compact&theme=transparent">
 </div>
 
+<div style="display: inline-block;"><br>
+    <img align="center" alt="JP-Eclipse" height="43" width="160" src="https://img.shields.io/badge/Eclipse-00000F?style=for-the-badge&logo=eclipse&logoColor=blue"> <br> <br>
+      <img align="center" alt="JP-Java" height="43" width="150" src="https://img.shields.io/badge/Java-00000F?style=for-the-badge&logo=openjdk&logoColor=blue"> <br> <br>
+    <img align="center" alt="JP-MySQL" height="43" width="148" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue">  <br> <br>
+    <img align="center" alt="JP-Git" height="43" width="120" src="https://img.shields.io/badge/GIT-00000F?style=for-the-badge&logo=git&logoColor=blue">  <br> <br>
+</div>
+
 ##
 
 <div style="display: inline-block;"><br>
-    <img align="center" alt="JP-Java" height="43" width="150" src="https://img.shields.io/badge/Java-00000F?style=for-the-badge&logo=openjdk&logoColor=blue"> <br> <br>
-    <img align="center" alt="JP-Eclipse" height="43" width="160" src="https://img.shields.io/badge/Eclipse-00000F?style=for-the-badge&logo=eclipse&logoColor=blue"> <br> <br>
-    <img align="center" alt="JP-MySQL" height="43" width="150" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue">  <br> <br>
-    <img align="center" alt="JP-Git" height="43" width="125" src="https://img.shields.io/badge/GIT-00000F?style=for-the-badge&logo=git&logoColor=blue">  <br> <br>
+    <a href=""><img align="center" alt="JP-Email" height="43" width="140" src="https://img.shields.io/badge/Gmail-00000F?style=for-the-badge&logo=gmail&logoColor=blue" href=""></a><br> <br>
+    <a href="https://www.instagram.com/jp.mends/?next=%2F"><img align="center" alt="JP-Instagram" height="43" width="165" src="https://img.shields.io/badge/Instagram-00000F?style=for-the-badge&logo=instagram&logoColor=blue"></a><br> <br>
+    <a href=""><img align="center" alt="JP-Discord" height="43" width="145" src="https://img.shields.io/badge/Discord-00000F?style=for-the-badge&logo=discord&logoColor=blue"></a><br> <br>
+    <a href=""><img align="center" alt="JP-Linkdein" height="43" width="145" src="https://img.shields.io/badge/LinkedIn-00000F?style=for-the-badge&logo=linkedin&logoColor=blue"></a><br> <br>
 </div>
