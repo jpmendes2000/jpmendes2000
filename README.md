@@ -1,7 +1,8 @@
 ## 👋 Olá! Eu sou JPMends
 
+- 🧑 Meu nome é João Pedro!
+  
 - 🌱 Estou melhorando meu código em Java e SQL
-
 - 🎮 Eu gosto de jogos de luta e construção de cidades
 
 <div>
