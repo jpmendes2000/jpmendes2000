@@ -12,7 +12,8 @@
 ##
 
 <div style="display: inline-block;"><br>
-    <img align="center" alt="JP-Java" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">  
-    <img align="center" alt="JP-Eclipse" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg">  
-    <img align="center" alt="JP-MySQL" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">  
+    <img align="center" alt="JP-Java" height="43" width="150" src="https://img.shields.io/badge/Java-00000F?style=for-the-badge&logo=openjdk&logoColor=blue"> <br> <br>
+    <img align="center" alt="JP-Eclipse" height="43" width="160" src="https://img.shields.io/badge/Eclipse-00000F?style=for-the-badge&logo=eclipse&logoColor=blue"> <br> <br>
+    <img align="center" alt="JP-MySQL" height="43" width="150" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue">  <br> <br>
+    <img align="center" alt="JP-Git" height="43" width="125" src="https://img.shields.io/badge/GIT-00000F?style=for-the-badge&logo=git&logoColor=blue">  <br> <br>
 </div>
