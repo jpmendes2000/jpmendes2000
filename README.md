@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou JPMends
+## <h1 align="center">👋 Olá! Eu sou JPMends</h1>
 
 - 🧑 Meu nome é João Pedro!
   
