@@ -10,7 +10,7 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpmendes2000&hide_title=false&include_all_commits=true&show_icons=true&count_private=true&theme=transparent">
         <img align="right" alt="gif" height="260" width="410"src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVnbHh5MDk2ZGl4aWNmaXI2Mjgwb3V6Nnc2OTIweWdmNzh4MHM1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OlPQEdkE7eOdZ22Ib4/giphy.gif">  
-  <img height="201em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmendes2000&layout=compact&hide_title=false&langs_count=6&theme=transparent">
+  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmendes2000&layout=compact&hide_title=false&langs_count=6&theme=transparent">
 </div>
 
 <div style="display: inline-block;"><br>
