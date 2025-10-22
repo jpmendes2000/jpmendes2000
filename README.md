@@ -1,29 +1,47 @@
-## <h1 align="center">👋 Olá! Eu sou JPMends</h1>
-
-- 🧑 Meu nome é João Pedro!
-  
-- 🌱 Estou melhorando meu código em Java e SQL
-- 🎮 Eu gosto de jogos de luta e construção de cidades
-
-##
-
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpmendes2000&hide_title=false&include_all_commits=true&show_icons=true&count_private=true&theme=transparent">
-        <img align="right" alt="gif" height="260" width="410"src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVnbHh5MDk2ZGl4aWNmaXI2Mjgwb3V6Nnc2OTIweWdmNzh4MHM1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OlPQEdkE7eOdZ22Ib4/giphy.gif">  
-  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmendes2000&layout=compact&hide_title=false&langs_count=6&theme=transparent">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-<div style="display: inline-block;"><br>
-    <img align="center" alt="JP-Eclipse" height="43" width="160" src="https://img.shields.io/badge/Eclipse-00000F?style=for-the-badge&logo=eclipse&logoColor=blue"> 
-      <img align="center" alt="JP-Java" height="43" width="135" src="https://img.shields.io/badge/Java-00000F?style=for-the-badge&logo=openjdk&logoColor=blue"> 
-    <img align="center" alt="JP-MySQL" height="43" width="148" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue">  
+###
+
+<h1 align="center">Olá, eu sou João Pedro</h1>
+
+###
+
+<div align="center">
+  <img height="400" src=""  />
 </div>
 
-##
+###
 
-<div style="display: inline-block;"><br>
-    <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=new"><img align="center" alt="JP-Email" height="43" width="140" src="https://img.shields.io/badge/Gmail-00000F?style=for-the-badge&logo=gmail&logoColor=blue" href=""></a>
-    <a href="https://www.instagram.com/jp.mmends/?next=%2F"><img align="center" alt="JP-Instagram" height="43" width="165" src="https://img.shields.io/badge/Instagram-00000F?style=for-the-badge&logo=instagram&logoColor=blue"></a>
-    <a href=""><img align="center" alt="JP-Discord" height="43" width="145" src="https://img.shields.io/badge/Discord-00000F?style=for-the-badge&logo=discord&logoColor=blue"></a>
-    <a href="https://www.linkedin.com/in/joão-pedro-de-moraes-mendes-1311bb31a/"><img align="center" alt="JP-Linkdein" height="43" width="145" src="https://img.shields.io/badge/LinkedIn-00000F?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo"  />
 </div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-de-moraes-mendes-1311bb31a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="31" alt="linkedin logo"  />
+  </a>
+  <a href="jpmoraes.mendes22@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="43" height="31" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/jp.mmends/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="43" height="31" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jpmendes2000&locale=pt-br&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
