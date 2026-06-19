@@ -31,7 +31,7 @@ Sou apaixonado por tecnologia e por transformar ideias em código funcional — 
 nome: João Pedro Mendes
 cargo: Desenvolvedor Full Stack
 foco: Java, Python e PostgreSQL
-estras: HTML+CSS+JS, React, NedeJS e SQL
+extras: HTML+CSS+JS, React, NedeJS e SQL
 aprendendo: sempre algo novo
 contato: jpmoraes.mendes22@gmail.com
 ```
