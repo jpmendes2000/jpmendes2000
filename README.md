@@ -65,12 +65,12 @@ contato: jpmoraes.mendes22@gmail.com
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jpmendes2000&bg_color=0D0D0D&color=B22222&line=8B0000&point=FFFFFF&hide_border=true" width="95%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jpmendes2000&bg_color=0D0D0D&color=B22222&line=8B0000&point=FFFFFF&hide_border=true" width="100%" alt="activity graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpmendes2000&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=B22222&text_color=FFFFFF&icon_color=B22222" height="205" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpmendes2000&hide_border=true&background=0D0D0D&ring=B22222&fire=B22222&currStreakLabel=B22222&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" height="205" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jpmendes2000&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=B22222&text_color=FFFFFF&icon_color=B22222" height="100%" alt="github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpmendes2000&hide_border=true&background=0D0D0D&ring=B22222&fire=B22222&currStreakLabel=B22222&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" height="100%" alt="streak stats" />
 </div>
 
 <div align="center">
